@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+}
+.menu {
+	position: sticky;
+	width: 100%;
+	background-color: #1a1e26;
+	top: 0;
+}
+.menu a {
+	color: white;
+	text-decoration: none;
+	padding: 10px 12px;
+	display: inline-block;
+}
+.content {
+	margin-left: 40px;
+	width: 75%;
+}
+.ap input {
+	display: block;
+	width: 50em;
+	padding: 10px 12px;
+}
+#connection {
+	padding: 40px 50px;
+	display: inline-block;
+}
+#inscription {
+	padding: 40px 50px;
+}
+.fas:hover {
+	color: red;
+}
+.uploader {
+	margin: auto;
+	width: 50%;
+}

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^video/$ /video.php [L]
+RewriteRule ^dashboard$ /dashboard.php [L]
+RewriteRule ^search$ /query.php [L]
+RewriteRule ^uploader$ /upload.php [L]
